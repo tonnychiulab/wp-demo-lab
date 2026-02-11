@@ -1,0 +1,132 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Demo Lab 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/skill-md/wp-demo-lab/issues\n"
+"POT-Creation-Date: 2026-02-11 12:57+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+"X-Domain: wp-demo-lab\n"
+
+#. Plugin Name of the plugin
+#: includes/class-hooks-demo.php:164 includes/class-hooks-demo.php:198
+msgid "WP Demo Lab"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/skill-md/wp-demo-lab"
+msgstr ""
+
+#. Description of the plugin
+msgid "A teaching plugin demonstrating Hooks, Shortcodes, and Core Icons."
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Demo Lab Team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/skill-md"
+msgstr ""
+
+#: includes/class-hooks-demo.php:79
+msgid "WP Demo Lab: Hooks Experiment"
+msgstr ""
+
+#: includes/class-hooks-demo.php:80
+msgid "Here you can enable distinct hooks to see how they affect WordPress behavior."
+msgstr ""
+
+#: includes/class-hooks-demo.php:88
+msgid "Filter:"
+msgstr ""
+
+#: includes/class-hooks-demo.php:92
+msgid "Enable \"Thank You\" message at the end of posts"
+msgstr ""
+
+#: includes/class-hooks-demo.php:95 includes/class-hooks-demo.php:111
+#: includes/class-hooks-demo.php:127
+msgid "Code:"
+msgstr ""
+
+#: includes/class-hooks-demo.php:96
+msgid "Appends a message to your post content immediately."
+msgstr ""
+
+#: includes/class-hooks-demo.php:103 includes/class-hooks-demo.php:119
+msgid "Action:"
+msgstr ""
+
+#: includes/class-hooks-demo.php:107
+msgid "Add \"Scroll Top\" button to frontend"
+msgstr ""
+
+#: includes/class-hooks-demo.php:112
+msgid "Injects HTML markup into the footer of your website."
+msgstr ""
+
+#: includes/class-hooks-demo.php:123
+msgid "Show \"Welcome\" banner in Admin Dashboard"
+msgstr ""
+
+#: includes/class-hooks-demo.php:128
+msgid "Displays a custom persistent notice at the top of admin pages."
+msgstr ""
+
+#: includes/class-hooks-demo.php:165
+msgid "Thank you for reading this post!"
+msgstr ""
+
+#: includes/class-hooks-demo.php:182
+msgid "Demo"
+msgstr ""
+
+#: includes/class-hooks-demo.php:182
+msgid "Top"
+msgstr ""
+
+#: includes/class-hooks-demo.php:198
+msgid "Hello! This message is injected via the"
+msgstr ""
+
+#: includes/class-hooks-demo.php:198
+msgid "action hook."
+msgstr ""
+
+#: includes/class-shortcodes-demo.php:42
+msgid "Button"
+msgstr ""
+
+#: includes/class-shortcodes-demo.php:88
+msgid "Guest"
+msgstr ""
+
+#: includes/class-icons-demo.php:75
+msgid "WP Icons Gallery"
+msgstr ""
+
+#: includes/class-icons-demo.php:76
+msgid "Explore default WordPress Dashicons. Click an icon to copy its HTML code."
+msgstr ""
+
+#: includes/class-icons-demo.php:79
+msgid "Previous"
+msgstr ""
+
+#: includes/class-icons-demo.php:80
+msgid "Page"
+msgstr ""
+
+#: includes/class-icons-demo.php:80
+msgid "of"
+msgstr ""
+
+#: includes/class-icons-demo.php:81
+msgid "Next"
+msgstr ""
